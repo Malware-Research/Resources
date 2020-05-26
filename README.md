@@ -42,6 +42,8 @@ Note that the resources are not listed in a particular order. This list is not a
  - [Bellingcat’s research methods for OSINT](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA)
  - [Danus Minimus’ malware analysis blog](https://danusminimus.github.io/)
  - [Arnau Gàmez i Montolio’s reverse engineering blog](https://arnaugamez.com/)
+ - [Nikhil Hegde's malware analysis blog](https://nikhilhegde.com/)
+ - [0xlsd's malware analysis blog](https://themalhunt.wordpress.com/blog-2/)
  
 ### Telegram Groups
 - [Radare2](https://t.me/radare)
