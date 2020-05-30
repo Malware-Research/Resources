@@ -11,12 +11,12 @@ Note that the resources are not listed in a particular order. This list is not a
 
 ## English resources
 
-- Unable to locate new malware samples to analyse? You can use Megabeets’ [Fantastic Malware And Where To Find Them](https://www.megabeets.net/fantastic-malware-and-where-to-find-them/), or Libra's  [Searching Samples](https://maxkersten.nl/binary-analysis-course/obtaining-samples/searching-samples/).
+- Unable to locate new malware samples to analyze? You can use Megabeets’ [Fantastic Malware And Where To Find Them](https://www.megabeets.net/fantastic-malware-and-where-to-find-them/), or Libra's  [Searching Samples](https://maxkersten.nl/binary-analysis-course/obtaining-samples/searching-samples/).
 
 
  - Are you interested in assembly language and/or are you unsure what a specific instruction does? Refer to the [Intel manual](https://software.intel.com/en-us/articles/intel-sdm) for the x86 and x86_64 architectures.
 
- - Do you want to analyse malware (or binaries in general), but are you unsure how to? Check Libra's [Binary Analysis Course](https://maxkersten.nl/binary-analysis-course/).
+ - Do you want to analyze malware (or binaries in general), but are you unsure how to? Check Libra's [Binary Analysis Course](https://maxkersten.nl/binary-analysis-course/).
 
  - Have you been struck with ransomware and do you want to know what type it is? Check [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) and [No More Ransom](https://www.nomoreransom.org/).
 
@@ -26,11 +26,11 @@ Note that the resources are not listed in a particular order. This list is not a
   
  - A [page](https://github.com/sindresorhus/awesome) that links to all kinds of Awesome pages related to IT security.
   
- - Do you want analyse an Android application? You can use [AndroidProjectCreator](https://maxkersten.nl/projects/androidprojectcreator/) to convert an APK to an Android Studio project.
+ - Do you want to analyze an Android application? You can use [AndroidProjectCreator](https://maxkersten.nl/projects/androidprojectcreator/) to convert an APK to an Android Studio project.
   
  - Malware analysis tutorials by [MalwareUnicorn](https://malwareunicorn.org/#/workshops).
   
- - Want to know more about Process Injection, anti-analysis techniques, packers and how to unpack them? Check out [OALabs’ YouTube channel](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg).
+ - Want to know more about Process Injection, anti-analysis techniques, packers, and how to unpack them? Check out [OALabs’ YouTube channel](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg).
   
  - Want to know more about file formats or hash collisions? Check [Corkami’s GitHub repositories](https://github.com/corkami).
   
