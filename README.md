@@ -42,7 +42,7 @@ Note that the resources are not listed in a particular order. This list is not a
   
  - Want to know more about file formats or hash collisions? Check [Corkami’s GitHub repositories](https://github.com/corkami).
  
- - If you skills are enough advanced and you're really curious about APT groups then you'll have fun analyzing these samples used by most famous APTs groups: [Malware Collection] (iec56w4ibovnb4wc.onion.si)  . Please be careful, these samples are armed!!
+ - If you skills are enough advanced and you're really curious about APT groups then you'll have fun analyzing these samples used by most famous APTs groups: [Malware Collection] (iec56w4ibovnb4wc.onion)  . Please be careful, these samples are armed!!
  
  - A list of popular APT groups and details about them: [APT Groups and Operations Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTheajUWzRhTK0XhSI3_RnYVtUJvl8mlX8HlThPyCJGK1g5SBecgS78O1oeTFQxDYS0oWlKTg2pNLyb/pubhtml#)
  
