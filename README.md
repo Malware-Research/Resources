@@ -35,6 +35,8 @@ Note that the resources are not listed in a particular order. This list is not a
  - Malware Analysis course developed by [Rensselaer Polytechnic Institute](https://github.com/RPISEC/Malware)
  
  - If you want to know more about analysis of artifact then take a look here [Enisa Common Framework for analysis](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational#advanced-analysis)
+ 
+ - If you know First community then for sure you'll appreciate this collection of [resources](https://www.first.org/global/sigs/malware/resources/)
   
  - Want to know more about Process Injection, anti-analysis techniques, packers, and how to unpack them? Check out [OALabs’ YouTube channel](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg).
   
