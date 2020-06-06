@@ -15,6 +15,8 @@ Note that the resources are not listed in a particular order. This list is not a
 
 
  - Are you interested in assembly language and/or are you unsure what a specific instruction does? Refer to the [Intel manual](https://software.intel.com/en-us/articles/intel-sdm) for the x86 and x86_64 architectures.
+ 
+ - Are you interested to learn reverse engineering from scratch? Then refer to [Reverse Engineering for Beginner](https://www.begin.re/)
 
  - Do you want to analyze malware (or binaries in general), but are you unsure how to? Check Libra's [Binary Analysis Course](https://maxkersten.nl/binary-analysis-course/).
 
@@ -29,6 +31,10 @@ Note that the resources are not listed in a particular order. This list is not a
  - Do you want to analyze an Android application? You can use [AndroidProjectCreator](https://maxkersten.nl/projects/androidprojectcreator/) to convert an APK to an Android Studio project.
   
  - Malware analysis tutorials by [MalwareUnicorn](https://malwareunicorn.org/#/workshops).
+ 
+ - Malware Analysis course developed by [Rensselaer Polytechnic Institute](https://github.com/RPISEC/Malware)
+ 
+ - If you want to know more about analysis of artifact then take a look here [Enisa Common Framework for analysis](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational#advanced-analysis)
   
  - Want to know more about Process Injection, anti-analysis techniques, packers, and how to unpack them? Check out [OALabs’ YouTube channel](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg).
   
