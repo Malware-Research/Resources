@@ -46,6 +46,8 @@ Note that the resources are not listed in a particular order. This list is not a
  
  - Looking for a set of Yara rules to enrich your detection? Check out this collection of Yara rules by Florian Roth: [Neo23x0 Yara Repo](https://github.com/Neo23x0/signature-base/tree/master/yara) 
  
+  If you're really curious about APT groups and their implants then you'll have fun analyzing these samples used by most famous APTs groups: [Malware Collection] (iec56w4ibovnb4wc.onion).  This repo is reachable only using Tor Browser. Please be careful, these samples are armed!!
+ 
  - A platform to collect useful information about APT groups, IOCs, and more: [OpenCti](https://opencti.io)
 
 ### Blogs
