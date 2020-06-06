@@ -48,7 +48,7 @@ Note that the resources are not listed in a particular order. This list is not a
  
  - Looking for a set of Yara rules to enrich your detection? Check out this collection of Yara rules by Florian Roth: [Neo23x0 Yara Repo](https://github.com/Neo23x0/signature-base/tree/master/yara) 
  
- - What about Cyber Threat Intelligence? Don't you need a platform to collect any useful information about Apt groups, IoCs and info? Then this is waht you need: [OpenCti](https://opencti.io)
+ - A platform to collect useful information about APT groups, IOCs, and more: [OpenCti](https://opencti.io)
 
 ### Blogs
  - [Max Kersten (Libra) blog](https://maxkersten.nl)
