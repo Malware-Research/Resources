@@ -45,7 +45,8 @@ Note that the resources are not listed in a particular order. This list is not a
  - If you skills are enough advanced and you're really curious about APT groups then you'll have fun analyzing these samples used by most famous APTs groups: [Malware Collection] (iec56w4ibovnb4wc.onion.si)  . Please be careful, these samples are armed!!
  
  - If you want to share your samples or you need some IoCs for your research then take a look here: [CyberSaiyan Sharing Platform] (https://github.com/CyberSaiyanIT/InfoSharing/blob/master/README.md#componente-consumer) It's in Italian but english version is coming soon 
-  
+ 
+ - How can you complete your research, recognise patterns and samples and extract IoCs if you don't use Yara rules? Then better to use this great repo built by Florian Roth: [Neo23x0 Yara Repo](https://github.com/Neo23x0/signature-base/tree/master/yara) 
 
 ### Blogs
  - [Max Kersten (Libra) blog](https://maxkersten.nl)
