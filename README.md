@@ -48,7 +48,7 @@ Note that the resources are not listed in a particular order. This list is not a
  
  - What do you need to be a good researcher on APT groups? Surely a list of most famous Apt groups and all details related them: [APT Groups and Operations Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTheajUWzRhTK0XhSI3_RnYVtUJvl8mlX8HlThPyCJGK1g5SBecgS78O1oeTFQxDYS0oWlKTg2pNLyb/pubhtml#)
  
- - How can you complete your research, recognise patterns and samples and extract IoCs if you don't use Yara rules? Then better to use this great repo built by Florian Roth: [Neo23x0 Yara Repo](https://github.com/Neo23x0/signature-base/tree/master/yara) 
+ - Looking for a set of Yara rules to enrich your detection? Check out this collection of Yara rules by Florian Roth: [Neo23x0 Yara Repo](https://github.com/Neo23x0/signature-base/tree/master/yara) 
 
 ### Blogs
  - [Max Kersten (Libra) blog](https://maxkersten.nl)
@@ -73,4 +73,3 @@ Note that the resources are not listed in a particular order. This list is not a
 - (Spanish) [Rubén Revuelta’s malware analysis blog](https://medium.com/@rrevueltab)
 - (Spanish) [W4nn4die’s malware analysis blog](https://ginseg.com/author/w4nn4die/)
 - (Turkish) [Fatih Şensoy’s malware analysis blog](https://fatihsensoy.com/)
-
