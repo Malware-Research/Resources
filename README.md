@@ -11,7 +11,7 @@ Note that the resources are not listed in a particular order. This list is not a
 
 ## English resources
 
-- Unable to locate new malware samples to analyze? You can use Megabeets’ [Fantastic Malware And Where To Find Them](https://www.megabeets.net/fantastic-malware-and-where-to-find-them/), or Libra's  [Searching Samples](https://maxkersten.nl/binary-analysis-course/obtaining-samples/searching-samples/).
+- Unable to locate new malware samples to analyze? You can use Megabeets’ [Fantastic Malware And Where To Find Them](https://www.megabeets.net/fantastic-malware-and-where-to-find-them/), or Libra's  [Searching Samples](https://maxkersten.nl/binary-analysis-course/obtaining-samples/searching-samples/), or [filescan.io](https://filescan.io/).
 
 
  - Are you interested in assembly language and/or are you unsure what a specific instruction does? Refer to the [Intel manual](https://software.intel.com/en-us/articles/intel-sdm) for the x86 and x86_64 architectures.
