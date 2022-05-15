@@ -51,7 +51,7 @@ Note that the resources are not listed in a particular order. This list is not a
  
  - A platform to extract info about IoC and samples: [IntelOwl](https://github.com/intelowlproject/IntelOwl)
   
- - Finding and exploiting vulnerable Malware[malvuln](https://www.malvuln.com/)
+ - Finding and exploiting vulnerable Malware [malvuln](https://www.malvuln.com/)
 
  - Looking for samples/paperss [vx-underground](https://www.vx-underground.org/index.html)
 
