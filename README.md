@@ -15,6 +15,7 @@ Note that the resources are not listed in a particular order. This list is not a
 
 
  - Are you interested in assembly language and/or are you unsure what a specific instruction does? Refer to the [Intel manual](https://software.intel.com/en-us/articles/intel-sdm) for the x86 and x86_64 architectures.
+ - [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
  
  - Are you interested to learn reverse engineering from scratch? Then refer to [Reverse Engineering for Beginner](https://www.begin.re/)
 
@@ -49,6 +50,10 @@ Note that the resources are not listed in a particular order. This list is not a
  - A platform to collect useful information about APT groups, IOCs, and more: [OpenCti](https://opencti.io)
  
  - A platform to extract info about IoC and samples: [IntelOwl](https://github.com/intelowlproject/IntelOwl)
+  
+ - Finding and exploiting vulnerable Malware [malvuln](https://www.malvuln.com/)
+
+ - Looking for samples/paperss [vx-underground](https://www.vx-underground.org/index.html)
 
 ### Blogs
  - [Max Kersten (Libra) blog](https://maxkersten.nl)
