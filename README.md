@@ -64,8 +64,6 @@ Note that the resources are not listed in a particular order. This list is not a
  - [Arnau Gàmez i Montolio’s reverse engineering blog](https://arnaugamez.com/)
  - [Nikhil Hegde's malware analysis blog](https://nikhilhegde.com/)
  - [0xlsd's malware analysis blog](https://themalhunt.wordpress.com/blog-2/)
- - [Z0F](https://0xz0f.github.io/)
- - [UDURRANI](https://udurrani.com/)
  
 ### Telegram Groups
 - [Radare2](https://t.me/radare)
